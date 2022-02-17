@@ -9,7 +9,7 @@ use Illuminate\Support\Facades\Mail;
 class EmailController extends Controller
 {
         // ------------- [ Send email ] --------------------
-        public function sendEmailToUser() {
+        public function sendemailtouser() {
 
             $to_email = "ommartiste007@gmail.com";
     
