@@ -18,5 +18,5 @@ Route::get('/', function () {
 });
 
 
-Route::get("send-email", "EmailController@sendEmailToUser");
+Route::get("send-email", "EmailController@sendemailtouser");
 
