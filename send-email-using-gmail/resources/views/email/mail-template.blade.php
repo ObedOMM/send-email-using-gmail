@@ -11,14 +11,14 @@
     <div class="container">
         <div class="row">
             <div class="col-xl-6 col-lg-6 col-sm-12 m-auto">
-                <h3> Send Email in Laravel 7 Using Gmail </h3>
-                <p> Hey, </p>
-                <p> Welcome to Programming Fields </p>
-                <p> This is a basic demo for sending email in Laravel 7 using Gmail SMTP </p>
+                <h3> Votre demande d'accès à un centre est autorisée par ((Dr WilthMan)) </h3>
+                <p> Salut ((nomUser)), </p>
+                <p> Vous pouvez maintenant vous connecter à votre espace utilisateur pour le centre ((nom du centre)) </p>
+                <p> Ceci est un message automatique envoyé depuis l'application, prière de ne pas repondre </p>
                 <br/>
                 <br/>
-                <p> Best Regards</p>
-                <p> Team, Programming Fields </p>
+                <p> Cordialement</p>
+                <p> Admin, Hologram-OMS </p>
             </div>
         </div>
     </div>
