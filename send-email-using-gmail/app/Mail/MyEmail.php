@@ -28,6 +28,7 @@ class MyEmail extends Mailable
      */
     public function build()
     {
-        return $this->view('view.name');
+        // return $this->view('view.name');
+        return $this->from('admin@programmingfields.com')->view('email.mail-template');
     }
 }
